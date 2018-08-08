@@ -1,6 +1,6 @@
 version: 0.1
 stack:
-  name: eks-vpc # Note: Update this with your stack name
+  name: eksVPC # Note: Update this with your stack name
   template:
     file: vpc.stack.yml
     bucket: cim-stack-artifacts1 # Note: Update this with your bucket name.  Stacks are uploaded here prior to deployment.'
