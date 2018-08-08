@@ -9,7 +9,7 @@ stack:
   # Define stack input parameters.
   #
   parameters:
-    VPCStack: 'eks-vpc'
+    VPCStack: 'eksVPC'
 
   #
   # Define stack capabilities required.
